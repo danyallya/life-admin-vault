@@ -1,0 +1,1 @@
+export const projectInfo = { slug:"life-admin-vault", title:"Life Admin Vault", summary:"A private home for household records, expiry dates, warranties and bills.", scope:"vault", locale:"en", direction:"ltr", firstTask:"Add a document register with expiry reminder and clear deletion.", entity:"records" } as const;
