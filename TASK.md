@@ -18,4 +18,6 @@ The technical shell exists; the product workflow does not. Build the first safe,
 
 ## Status
 
-Not started. Use product/001-vault. After acceptance passes, update progress and set the next task.
+Completed on 2026-10-27 in `product/day-001-vault-001-document-register`. The local register, Dexie draft persistence, expiry status and deletion flow are implemented. `npm run verify` passes. Manual screen-reader and offline browser acceptance remain for VAULT-007/VAULT-008.
+
+**Next:** VAULT-002 — Validate records and add empty/error/deletion states. The current slice includes baseline validation and clear deletion; this next task covers the broader state and recovery behavior.

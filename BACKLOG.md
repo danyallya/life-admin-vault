@@ -4,7 +4,7 @@ Prioritize user risk and evidence over polish. Estimates are focused engineering
 
 ## P0 — safe foundation
 
-- [ ] VAULT-001 — Add a document register with expiry reminder and clear deletion.
+- [x] VAULT-001 — Add a document register with expiry reminder and clear deletion. (Implemented locally; review and delivery tracked in the day-one report.)
 - [ ] VAULT-002 — Validate records and add empty/error/deletion states.
 - [ ] VAULT-003 — Add PostgreSQL migrations and repository tests.
 - [ ] VAULT-004 — Specify offline conflicts, retry, duplicate-submit and recovery.
